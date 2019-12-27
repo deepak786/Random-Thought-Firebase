@@ -1,0 +1,71 @@
+{
+  "1":{
+    "author" : "Walt Disney",
+    "createdAt" : 1577441685097,
+    "thought" : "The Way To Get Started Is To Quit Talking And Begin Doing.",
+    "views" : 0,
+    "tag": {
+      "inspirational": 1,
+      "life": 1
+    }
+  },
+  "2":{
+    "author" : "Winston Churchill",
+    "createdAt" : 1577441996315,
+    "thought" : "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+    "views" : 0,
+    "tag": {
+      "inspirational": 1,
+      "life": 1
+    }
+  },
+  "3":{
+    "author" : "Morrie Schwartz",
+    "createdAt" : 1577442098742,
+    "thought" : "The most important thing in life is to learn how to give out love, and to let it come in.",
+    "views" : 0,
+    "tag": {
+      "love": 1
+    }
+  },
+  "4":{
+    "author" : "C.J. Redwine",
+    "createdAt" : 1577442232714,
+    "thought" : "No matter what has happened. No matter what you’ve done. No matter what you will do. I will always love you. I swear it.",
+    "views" : 0,
+    "tag": {
+      "love": 1,
+      "romantic": 1
+    }
+  },
+  "5":{
+    "author" : "Doug Firebough",
+    "createdAt" : 1577442340267,
+    "thought" : "Every day, do something that will inch you closer to a better tomorrow.",
+    "views" : 0,
+    "tag": {
+      "inspirational": 1,
+      "life": 1
+    }
+  },
+  "6":{
+    "author" : "Marcus Aurelius",
+    "createdAt" : 1577446722229,
+    "thought" : "The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature.",
+    "views" : 0,
+    "tag": {
+      "inspirational": 1,
+      "life": 1
+    }
+  },
+  "7":{
+    "author" : "Marcus Aurelius",
+    "createdAt" : 1577446778486,
+    "thought" : "The art of living is more like wrestling than dancing.",
+    "views" : 0,
+    "tag": {
+      "inspirational": 1,
+      "life": 1
+    }
+  }
+}
