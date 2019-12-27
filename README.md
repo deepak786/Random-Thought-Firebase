@@ -5,5 +5,5 @@ Get the random thought from Firebase records.
 Download your serviceAccountKey from Firebase Project under **settings/Service Accounts** tab and then click on **Generate new private key** button
 
 ## script.js
-copy your database url and replace with https://thoughts-sample.firebaseio.com
+copy your database url and replace at https://thoughts-sample.firebaseio.com
 
