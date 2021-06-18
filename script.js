@@ -4,7 +4,7 @@ var serviceAccount = require("./key.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://thoughts-sample.firebaseio.com"
+    databaseURL: `https://${serviceAccount.project_id}.firebaseio.com`
 });
 
 // get the realtime database object
